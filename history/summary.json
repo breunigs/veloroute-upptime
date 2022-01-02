@@ -4,19 +4,19 @@
     "url": "https://veloroute.hamburg/updates.atom",
     "icon": "https://favicons.githubusercontent.com/veloroute.hamburg",
     "slug": "veloroute-hamburg",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.87%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 668,
-    "timeDay": 889,
-    "timeWeek": 684,
+    "timeDay": 767,
+    "timeWeek": 679,
     "timeMonth": 652,
     "timeYear": 668,
     "dailyMinutesDown": {
-      "2022-01-02": 0
+      "2022-01-02": 16
     }
   }
 ]
