@@ -6,17 +6,16 @@
     "slug": "veloroute-hamburg",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 677,
-    "timeDay": 796,
-    "timeWeek": 754,
-    "timeMonth": 696,
-    "timeYear": 677,
+    "time": 679,
+    "timeDay": 850,
+    "timeWeek": 760,
+    "timeMonth": 705,
+    "timeYear": 679,
     "dailyMinutesDown": {
-      "2022-02-22": 8,
       "2022-01-02": 16
     }
   }
