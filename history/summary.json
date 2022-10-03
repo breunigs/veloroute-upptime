@@ -2,7 +2,7 @@
   {
     "name": "veloroute.hamburg",
     "url": "https://veloroute.hamburg/updates.atom",
-    "icon": "https://favicons.githubusercontent.com/veloroute.hamburg",
+    "icon": "https://icons.duckduckgo.com/ip3/veloroute.hamburg.ico",
     "slug": "veloroute-hamburg",
     "status": "up",
     "uptime": "100.00%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 745,
-    "timeDay": 819,
-    "timeWeek": 830,
-    "timeMonth": 787,
-    "timeYear": 745,
+    "time": 746,
+    "timeDay": 888,
+    "timeWeek": 844,
+    "timeMonth": 791,
+    "timeYear": 746,
     "dailyMinutesDown": {
       "2022-01-02": 16
     }
