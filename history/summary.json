@@ -4,17 +4,19 @@
     "url": "https://veloroute.hamburg/updates.atom",
     "icon": "https://icons.duckduckgo.com/ip3/veloroute.hamburg.ico",
     "slug": "veloroute-hamburg",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 763,
-    "timeDay": 848,
-    "timeWeek": 806,
-    "timeMonth": 844,
-    "timeYear": 789,
-    "dailyMinutesDown": {}
+    "time": 762,
+    "timeDay": 686,
+    "timeWeek": 770,
+    "timeMonth": 834,
+    "timeYear": 788,
+    "dailyMinutesDown": {
+      "2023-01-23": 0
+    }
   }
 ]
