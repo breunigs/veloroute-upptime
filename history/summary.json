@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/veloroute.hamburg.ico",
     "slug": "veloroute-hamburg",
     "status": "up",
-    "uptime": "99.30%",
+    "uptime": "99.31%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 884,
-    "timeDay": 807,
-    "timeWeek": 872,
-    "timeMonth": 856,
-    "timeYear": 848,
+    "timeDay": 719,
+    "timeWeek": 875,
+    "timeMonth": 860,
+    "timeYear": 847,
     "dailyMinutesDown": {
       "2024-12-04": 29
     }
