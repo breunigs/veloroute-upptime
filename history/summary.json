@@ -4,7 +4,7 @@
     "url": "https://veloroute.hamburg/updates.atom",
     "icon": "https://icons.duckduckgo.com/ip3/veloroute.hamburg.ico",
     "slug": "veloroute-hamburg",
-    "status": "up",
+    "status": "down",
     "uptime": "99.41%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 889,
     "timeYear": 908,
     "dailyMinutesDown": {
+      "2025-08-17": 0,
       "2025-06-07": 56,
       "2024-12-04": 29
     }
