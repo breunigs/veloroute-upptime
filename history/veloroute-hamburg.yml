@@ -1,7 +1,7 @@
 url: https://veloroute.hamburg/updates.atom
-status: down
-code: 503
-responseTime: 1644
-lastUpdated: 2025-08-17T23:20:19.701Z
+status: up
+code: 200
+responseTime: 577
+lastUpdated: 2025-08-18T02:07:04.138Z
 startTime: 2021-10-16T20:36:07.000Z
 generator: Upptime <https://github.com/upptime/upptime>
